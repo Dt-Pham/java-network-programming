@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - VoteClient",
+            "request": "launch",
+            "mainClass": "VoteClient.VoteClient",
+            "projectName": "VoteApp"
+        }
+    ]
+}
